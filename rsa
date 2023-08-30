@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# let the challenge continue
+#is a challenge
 check_factor()
 {
 	if [ $# -ne 3 ];
